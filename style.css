@@ -1,4 +1,11 @@
 header{background-color: rgb(0, 0, 9); color: rgb(108, 164, 164);
     color: rgb(220, 220, 154);
 }
-    .cabecalho-imagem{width: 20%;}
+
+.cabecalho {baclground-color: aqua;color: white; display:flex; justify-content: space-around; padding: 2% 24px;}
+.cabecalho-imagem{width: 20%;}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin:  0 16px;}
+    .imagem-escola
+    {width: 25px;}
